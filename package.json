@@ -11,7 +11,7 @@
   "dependencies": {
     "@react-navigation/native": "^6.1.0",
     "@react-navigation/native-stack": "^6.9.0",
-    "@reactvision/react-viro": "^2.51.0",
+    "@reactvision/react-viro": "^2.54.0",
     "@viro-community/react-viro": "^2.41.1",
     "expo": "~51.0.31",
     "expo-camera": "~15.0.16",

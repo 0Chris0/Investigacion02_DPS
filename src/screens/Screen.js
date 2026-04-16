@@ -27,7 +27,6 @@ export default function Screen() {
     ultimaSincro: "--:--:--"
   });
 
-  // FUNCIÓN CORREGIDA: Llama a la API real de Open-Meteo
   const actualizarDatos = async () => {
     setCargando(true);
     const resultado = await getSensorData(); 

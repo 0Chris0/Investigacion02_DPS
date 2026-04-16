@@ -10,8 +10,8 @@ export const getSensorData = async () => {
     return {
       temperatura: json.current_weather.temperature, 
       humedad: json.hourly.relative_humidity_2m[0],
-      ubicacion: "Laboratorio UDB - Sector A",
-      dispositivo: "Sensor IoT-UDB-01",
+      ubicacion: "UDB",
+      dispositivo: "Dispositivo principal",
       estado: "Online",
       ultimaSincro: new Date().toLocaleTimeString()
     };
