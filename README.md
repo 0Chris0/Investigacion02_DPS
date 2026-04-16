@@ -13,7 +13,9 @@ Instalación y Ejecución
 
 *Si el teléfono no conecta bien, intenta con:* `npx expo start -c --lan` (Esto funciona como una red local para conectar mejor el celular).
 
-Integrantes del Grupo
+*Ingeniero, una disculpa, con mi grupo ya hicimos la exposición y defensa de la investigación, por los nervios de la defensa olvide este detalle, pero mi equipo me dio su ayuda en la parte del modoAR para que funcionara todo correctamente ya que yo no logre su funcionamiento"
+Integrantes del Grupo*
+
 * **Enrique Alexander Solano López** — SL223188
 * **Gisselle Esmeralda Rodriguez Benitez** — RB243017
 * **Jessica Paola Alvarez Sanchez** — AS241238
